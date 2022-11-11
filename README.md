@@ -6,6 +6,8 @@ Create a 6 images carousel slideshow with next and previous buttons. When hovere
 
 A click on the next button shows the next images and vice versa.
 
+Click link to view design https://deyokaofficial.github.io/
+
 
 ## **Language Used**
 
